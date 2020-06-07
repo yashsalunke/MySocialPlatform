@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MySocialPlatform</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="login">Login</string>
+    <string name="yash">Yash</string>
+    <string name="_15_min_ago">15 min ago</string>
+    <string name="this_is_a_sample_post">This is a Sample Post</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="submit">Submit</string>
+    <string name="add_description">Add Description</string>
+    <string name="register">Register</string>
+    <string name="todo">TODO</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_your_age">Enter Your Age</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="home">Home</string>
+    <string name="fav">Fav</string>
+    <string name="profile">profile</string>
+    <string name="New_Post">New Post</string>
+    <string name="already_a_user_login">Already A User, Login</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="save">Save</string>
+    <string name="delete">delete</string>
+    <string name="add_to_favourite">add to Favourite</string>
+    <string name="about_us">About Us</string>
+
+</resources>
